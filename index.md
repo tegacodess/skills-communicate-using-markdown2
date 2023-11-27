@@ -4,3 +4,6 @@
 let tega = "Amazing!";
 console.log(tega);
 ```
+- [ ] Learned writing in markdown
+- [ ] Started a new list
+- [ ] Completed necessary tasks
